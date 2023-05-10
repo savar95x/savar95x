@@ -6,9 +6,9 @@
    </p>
    <p align="center">
       <samp>
-         <a href="https://discord.com/users/695530925387153518" target="_blank">Discord</a> &#8226;
-         <a href="https://manas140.github.io" target="_blank">Website</a> &#8226;
-         <a href="https://open.spotify.com/user/eizy9oft3evqguhb4edm2l7l6" target="_blank">Spotify</a>
+         <a href="https://instagram.com/savar95x" target="_blank">Instagram</a> &#8226;
+         <a href="https://savar95x.github.io" target="_blank">Website</a> &#8226;
+         <a href="https://open.spotify.com/user/313jbxjc2wnaedsbj3odyumuduim" target="_blank">Spotify</a>
       </samp>
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
