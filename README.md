@@ -1,3 +1,5 @@
+I obsessively change my [dwm](https://github.com/savar95/dwm) font.  
+<!--
 <p align="left"><strong><samp>「</samp></strong></p>
    <p align="center">
       <samp>
@@ -12,5 +14,5 @@
       </samp>
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
-
+-->
 <!-- reference: kizu ( janleigh ) -->
