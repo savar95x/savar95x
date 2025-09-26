@@ -1,4 +1,4 @@
-I obsessively change my [dwm](https://github.com/savar95/dwm) font.  
+I obsessively change my [dwm](https://github.com/savar95x/dwm) font.  
 <!--
 <p align="left"><strong><samp>「</samp></strong></p>
    <p align="center">
